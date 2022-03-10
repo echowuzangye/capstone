@@ -2,7 +2,7 @@
 The goal of this project is to build an ETL pipeline that extracts I94 immigration data and U.S. City Demographic data. From the tables we build, we can answer questions like what are the most popular ports(cities), what is the gender distribution, etc.
 
 # Database Schema
-![image info](capstone.png)
+![schema](capstone.png)
 
 # Datasets
 - country_code.csv (extract from I94_SAS_Labels_Descriptions.SAS)
